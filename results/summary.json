@@ -1,0 +1,23 @@
+[
+  {
+    "lam": 0.0001,
+    "acc_soft": 0.7871,
+    "acc_hard": 0.1,
+    "sparsity": 0.9972184300422668,
+    "flops_reduction": 0.9972184285866265
+  },
+  {
+    "lam": 0.001,
+    "acc_soft": 0.1,
+    "acc_hard": 0.1,
+    "sparsity": 0.9999297261238098,
+    "flops_reduction": 0.9999297075847446
+  },
+  {
+    "lam": 0.005,
+    "acc_soft": 0.1,
+    "acc_hard": 0.1,
+    "sparsity": 1.0,
+    "flops_reduction": 1.0
+  }
+]
